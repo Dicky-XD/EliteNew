@@ -25,7 +25,7 @@ MBasic Facebook
 
 Free Facebook
 
-Graph Facebook
+Touch Facebook
 -----------------------------
 
 --FITUR ELITE
@@ -67,4 +67,4 @@ Untuk Stop Script Tekan : (To Stop Script Press :)
 -----------------------------
 *CTRL + Z
 
-
+*GUNAKAN DENAN BIJAK 
