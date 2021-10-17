@@ -49,4 +49,3 @@ Untuk Stop Script Tekan : (To Stop Script Press :)
 
 @CTRL + Z
 
-
