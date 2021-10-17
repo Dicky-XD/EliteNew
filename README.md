@@ -10,12 +10,12 @@ Yayan-XD
 Dapunta
 
 ★★INFORMATION SCRIPT★★
-
+-----------------------------
 # Script Ini Menggunakan 2 Method Login
 
 
 # Login Token && Cookies
-
+-----------------------------
 
 # Methode Crack
 
@@ -26,7 +26,7 @@ MBasic Facebook
 Free Facebook
 
 Graph Facebook
-
+-----------------------------
 
 --FITUR ELITE
 
@@ -34,7 +34,7 @@ Dump ID PUBLIK
 
 START CRACK
 
-
+-----------------------------
 #Perintah Script
 
 pkg update
@@ -61,10 +61,10 @@ Untuk Jalankan Script Bisa DiKetik :(To run the script, you can type:)
 
 python2 Elite.py
 
-
+-----------------------------
 Untuk Stop Script Tekan : (To Stop Script Press :)
 
-
-@CTRL + Z
+-----------------------------
+*CTRL + Z
 
 
