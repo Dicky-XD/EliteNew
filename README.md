@@ -1,19 +1,15 @@
-# Information
-Saya Tidak Bertanggung Jawab Atas Terjadi Masalahnya... Apapun Itu... (I'm not responsible for the problem... Whatever it is...)
-
 
 Terima Kasih Kepada !!
 
-
-Mr.Risky
 Hamzah
 AnggaXD
 Yayan-XD
 Dapunta
 
-
 ★★INFORMATION SCRIPT★★
 # Script Ini Menggunakan 2 Method Login
+
+
 # Login Token && Cookies
 
 
